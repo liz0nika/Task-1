@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Лаба_1._3__2_семестр_
+namespace code
 {
     internal class Program
     {
